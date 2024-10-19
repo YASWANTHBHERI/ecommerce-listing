@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Dependencies required to run the project
-install tailwind CSS (npm install -D tailwindcss)
+install tailwind CSS (npm install -D tailwindcss).\
 install flowbite (npm install flowbite-react)
 
 In the project directory, you can run:
